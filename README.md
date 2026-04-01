@@ -1,14 +1,8 @@
 # PrediHome - frontend
 
-![Android support](https://shields.io/badge/Android-SKD_34-green) ![Android support](https://shields.io/badge/In_progress-purple)
+![Android support](https://shields.io/badge/Android-SKD_34-green) ![Android support]
 
 Android application predicting apartment price by localization.
-
-## Release
-
-`
-in progress
-`
 
 ## Technologies
 
