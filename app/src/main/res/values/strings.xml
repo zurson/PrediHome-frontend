@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PrediHome</string>
+
+    <!-- GLOBAL -->
+    <string name="unexpected_error_message">"An unexpected error occurred!"</string>
+
+    <!-- AUTH -->
+    <string name="auth_form_email_hint">Email</string>
+    <string name="auth_form_password_hint">Password</string>
+    <string name="auth_form_confirm_password_hint">Confirm Password</string>
+    <string name="auth_sign_up_button_text">Sign Up</string>
+    <string name="auth_login_link">Already an user? Login!</string>
+    <string name="auth_login_button_text">Login</string>
+    <string name="auth_register_link">Not registered yet? Signup!</string>
+    <string name="auth_no_google_account_found">"No Google account found!"</string>
+    <string name="auth_account_already_exists">Account already exists!\nPlease login with original provider!</string>
+
+    <!-- NAVIGATION TITLES -->
+    <string name="nav_home">Home</string>
+    <string name="nav_predict">Predict</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_popular_regions">Popular regions</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- HOME -->
+    <string name="home_hello">Welcome back!</string>
+    <string name="home_description_1">Check apartments prices in</string>
+    <string name="home_description_2">Poland</string>
+    <string name="home_description_3">as at</string>
+    <string name="home_button">Get started</string>
+
+    <!-- PROFILE -->
+    <string name="logout_button_text">Logout</string>
+
+    <!-- API -->
+    <string name="default_web_client_id">783040042636-g30ivm5503gfgannnpvr2eq43skmgg7p.apps.googleusercontent.com</string>
+    <string name="fb_app_id">485135893879356</string>
+    <string name="fb_app_secret">708dd509e4a03af98e307fd57409a325</string>
+
+    <!-- HISTORY -->
+    <string name="history_details_title">Details</string>
+    <string name="history_no_more_data">No more data to fetch!</string>
+    <string name="history_data_fetched">Fetched %d records!</string>
+
+    <!-- PREDICTION -->
+    <string name="prediction_button_name">Predict</string>
+    <string name="prediction_back_button_name">Great</string>
+    <string name="prediction_parameter_value_error">---</string>
+
+</resources>

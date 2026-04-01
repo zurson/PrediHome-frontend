@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TABLET -->
+
+
+    <!-- SCAFFOLD -->
+    <dimen name="appbar_title_size">38sp</dimen>
+    <dimen name="appbar_icon_size">82dp</dimen>
+    <dimen name="navbar_text_size">25sp</dimen>
+    <dimen name="navbar_icon_size">70dp</dimen>
+    <integer name="navbar_stroke_size">5</integer>
+
+    <!-- AUTH -->
+    <dimen name="auth_header_text_size">30sp</dimen>
+    <dimen name="auth_title_text_size">34sp</dimen>
+    <dimen name="auth_description_text_size">26sp</dimen>
+
+    <dimen name="auth_button_text_size">30sp</dimen>
+    <dimen name="auth_divider_text_size">25sp</dimen>
+    <dimen name="auth_terms_text_size">22sp</dimen>
+
+    <dimen name="auth_form_padding">100dp</dimen>
+    <dimen name="auth_form_label_text_size">20sp</dimen>
+    <dimen name="auth_form_text_size">24sp</dimen>
+    <dimen name="auth_form_ic_size">32dp</dimen>
+    <dimen name="auth_form_ic_padding">8dp</dimen>
+
+    <dimen name="auth_form_error_size">20sp</dimen>
+
+    <!-- HISTORY -->
+    <dimen name="history_empty_list_icon_size">300dp</dimen>
+    <dimen name="history_empty_list_font_size">48sp</dimen>
+
+    <dimen name="history_font_size">24sp</dimen>
+    <dimen name="history_icon_size">48dp</dimen>
+
+    <dimen name="history_details_window_width">500dp</dimen>
+    <dimen name="history_details_icon_size">32dp</dimen>
+    <dimen name="history_details_font_size">24sp</dimen>
+    <dimen name="history_details_title_font_size">32sp</dimen>
+    <dimen name="history_details_close_icon_size">48dp</dimen>
+
+    <dimen name="history_progress_indicator_size">64dp</dimen>
+
+
+    <!-- MAP -->
+    <dimen name="map_box_padding_external_horizontal">24dp</dimen>
+    <dimen name="map_box_padding_external_top">32dp</dimen>
+
+    <dimen name="map_box_padding_internal">32dp</dimen>
+
+    <dimen name="map_city_main">40sp</dimen>
+    <dimen name="map_city_main_icon">40dp</dimen>
+
+    <dimen name="map_city_list_value">32sp</dimen>
+    <dimen name="map_city_list_height">600dp</dimen>
+
+    <dimen name="map_coords_title">24sp</dimen>
+    <dimen name="map_coords_value">30sp</dimen>
+
+    <dimen name="map_button">32sp</dimen>
+
+
+    <!-- POPULAR REGIONS -->
+    <dimen name="pr_city_item_rounding">48dp</dimen>
+
+    <dimen name="pr_city_item_padding">4dp</dimen>
+    <dimen name="pr_city_item_height">72dp</dimen>
+
+    <dimen name="pr_city_item_start_padding">36dp</dimen>
+    <dimen name="pr_city_item_font_size">32sp</dimen>
+
+    <dimen name="pr_progress_indicator_size">64dp</dimen>
+    <dimen name="pr_status_font_size">24sp</dimen>
+
+    <!-- PREDICTION PARAMETERS -->
+    <dimen name="prediction_parameters_label_text_size">28sp</dimen>
+    <dimen name="prediction_parameters_slider_value_text_size">28sp</dimen>
+
+    <dimen name="prediction_parameters_slider_track_height">16dp</dimen>
+    <dimen name="prediction_parameters_slider_thumb_size">48dp</dimen>
+
+    <dimen name="prediction_parameters_predict_button_text_size">32sp</dimen>
+    <dimen name="prediction_parameters_predict_button_icon_size">64dp</dimen>
+
+    <!-- PREDICTION RESULT -->
+    <dimen name="prediction_result_progress_indicator_size">64dp</dimen>
+
+    <dimen name="prediction_result_predicted_value_text_size">48sp</dimen>
+    <dimen name="prediction_result_predicted_value_unit_text_size">24sp</dimen>
+    <dimen name="prediction_result_predicted_unit_divider_thickness">2dp</dimen>
+    <dimen name="prediction_result_predicted_unit_divider_width">80dp</dimen>
+
+    <dimen name="prediction_result_parameter_label_text_size">32sp</dimen>
+    <dimen name="prediction_result_parameter_value_text_size">32sp</dimen>
+
+    <dimen name="prediction_result_back_button_text_size">32sp</dimen>
+
+    <!-- HOME VIEW -->
+    <dimen name="home_welcome_text_size">48sp</dimen>
+    <dimen name="home_description_text_size">36sp</dimen>
+    <dimen name="home_map_image_size">400dp</dimen>
+    <dimen name="home_pin_icon_size">96dp</dimen>
+
+</resources>
